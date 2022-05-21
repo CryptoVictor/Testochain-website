@@ -1,6 +1,6 @@
 ![screenshot](/Capture.PNG)
 
-# Testochain
+# Testochain-site
 
 <p> Copyright (c) 2022 Victor Garcia </p>
 <p> Distributed under the MIT software license, see the accompanying </p>
