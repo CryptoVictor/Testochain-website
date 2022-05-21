@@ -12,7 +12,7 @@
 
 ### The testo cryptocurrency central site ###
 
-<p> This system was made by Victor Garcia </p>
+<p> This site was made by Victor Garcia </p>
 
 ### How to acess this site? ###
 
