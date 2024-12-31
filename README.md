@@ -19,8 +19,6 @@
 <p> To acess this website you just need to go to this url: </p>
   
     https://testochain.000webhostapp.com/
-    
-<p> IF THE WEBSITE DOES NOT WORK, IT IS BECAUSE 000webhost IS WITH PROBLEMS AND LATER THE WEBSITE WILL COME BACK.</p>
   
 ### How to use the functions of this website? ###
 
